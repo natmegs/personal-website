@@ -13,6 +13,8 @@ gem 'rails', '~> 5.0.1'
 
 gem 'rails_12factor', group: :production
 
+gem 'ionicons-rails', '~> 2.0'
+
 gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
